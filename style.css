@@ -1,0 +1,69 @@
+#Pole{position: absolute;
+width: 1200px;
+height: 1000px;
+background: #C4C4C4;
+text-align: center;
+}
+#Pizza{
+position: absolute;
+width: 300px;
+height: 60px;
+background: #FF9900;
+font-size: 24px;
+color: #000000;
+}
+#Sushi{
+position: absolute;
+width: 300px;
+height: 60px;
+background: #0047FF;
+left: 300px;
+font-size: 24px;
+color: #000000;
+}
+#Burgers{
+position: absolute;
+width: 300px;
+height: 60px;
+background: #FF0000;
+left: 600px;
+font-size: 24px;
+color: #000000;
+}
+#Drinks{
+position: absolute;
+width: 300px;
+height: 60px;
+background: #FFF500;
+left: 900px;
+font-size: 24px;
+color: #000000;
+}
+#name{
+font-size: 64px;
+color: #000000;
+}
+.ap{
+width: 300px;
+height: 40px;
+font-size: 18px;
+background: #D2D612;
+border: 2px solid #FF0000;
+margin-top: 1%;
+}
+.Zakaz{
+width: 300px;
+height: 250px;
+font-size: 18px;
+background: #D2D612;
+border: 2px solid #FF0000;
+margin-top: 1%;
+}
+.kn{
+width: 120px;
+height: 40px;
+font-size: 18px;
+background: #8AD1C0;
+border: 2px solid #FF0000;
+margin-top: 1%;
+}
